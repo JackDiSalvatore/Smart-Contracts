@@ -1,0 +1,21 @@
+{
+  "name": "whitelist",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Solidity Whitelist smart contract.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.5.2"
+  }
+}
